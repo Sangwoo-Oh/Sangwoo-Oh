@@ -11,15 +11,15 @@
 ---
 
 ## プロジェクト
-
-### シューカレ
+各プロジェクトタイトルのリンクからリポジトリに遷移できます。
+### [シューカレ](https://github.com/Sangwoo-Oh/ReflectionHelper)
 - Googleカレンダーと連携し、ユーザーの過去の予定を分析・集計できるWebアプリケーションです。  
 
-### Go backend project with Spotify API
+### [Go backend app with Spotify API](https://github.com/Sangwoo-Oh/webApi)
 - Spotify APIを用いた**Go製バックエンドAPIアプリ**です。  
 - Spotifyアカウントでログインすることで、プレイリストの作成やアーティストの検索などが可能になります。  
 
-### サファリ
+### [サファリ](https://github.com/Sangwoo-Oh/safari)
 - **Java**と**LibGDX**を用いて開発したデスクトップゲームアプリケーションです。  
 
 ---
