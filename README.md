@@ -1,4 +1,4 @@
-🌐 Languages: [English](./README.md) | [日本語](./README.ja.md)
+🌐 Languages: [日本語](./README.md) | [English](./README.en.md)
 # こんにちは！
 
 ## プロフィール
