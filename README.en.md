@@ -1,3 +1,4 @@
+🌐 Languages: [日本語](./README.md) | [English](./README.en.md)
 # Hi there!
 
 ## Profile
