@@ -10,15 +10,15 @@
 ---
 
 ## Projects
-
-### Aggregate-Calendar
+You can access each repository by clicking on the project title.
+### [Aggregate-Calendar](https://github.com/Sangwoo-Oh/ReflectionHelper)
 - A web application that integrates with **Google Calendar** to analyze and aggregate users' past schedules.  
 
-### Go backend project with Spotify API
+### [Go backend project with Spotify API](https://github.com/Sangwoo-Oh/webApi)
 - A backend API app written in **Go**, integrated with the **Spotify API**.  
 - Enables login with Spotify accounts, playlist creation, and artist search through the web app.  
 
-### Safari
+### [Safari](https://github.com/Sangwoo-Oh/safari)
 - A desktop game application developed in **Java** using the **LibGDX** game engine.  
 
 ---
