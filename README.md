@@ -1,10 +1,6 @@
-# Hi there! / こんにちは！
+# こんにちは！
 
-## Profile / プロフィール
-- I am currently studying Computer Science in Hungary.  
-- Interested in **web development** and **software engineering**.  
-- Internship experience at a company developing virtual production software in Hungary.  
-- Serving as a **Teaching Assistant** for functional programming courses at university.  
+## プロフィール
 
 - 現在ハンガリーに留学中でコンピュータサイエンスを専攻しております。  
 - **Web開発**、**ソフトウェアエンジニアリング**に関心があります。  
@@ -13,20 +9,16 @@
 
 ---
 
-## Projects / プロジェクト
+## プロジェクト
 
-### Aggregate-Calendar / シューカレ
-- A web application that integrates with **Google Calendar** to analyze and aggregate users' past schedules.  
+### シューカレ
 - Googleカレンダーと連携し、ユーザーの過去の予定を分析・集計できるWebアプリケーションです。  
 
 ### Go backend project with Spotify API
-- A backend API app written in **Go**, integrated with the **Spotify API**.  
-- Enables login with Spotify accounts, playlist creation, and artist search through the web app.  
 - Spotify APIを用いた**Go製バックエンドAPIアプリ**です。  
 - Spotifyアカウントでログインすることで、プレイリストの作成やアーティストの検索などが可能になります。  
 
-### Safari / サファリ
-- A desktop game application developed in **Java** using the **LibGDX** game engine.  
+### サファリ
 - **Java**と**LibGDX**を用いて開発したデスクトップゲームアプリケーションです。  
 
 ---
